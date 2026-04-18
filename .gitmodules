@@ -8,6 +8,9 @@
 [submodule "nomesbr"]
 	path = nomesbr
 	url = https://github.com/ipea/nomesbr
+[submodule "uci"]
+	path = uci
+	url = https://github.com/ipea/uci
 [submodule "utilsIPEA"]
 	path = utilsIPEA
 	url = https://github.com/ipea/utilsipea
