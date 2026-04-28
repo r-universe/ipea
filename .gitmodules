@@ -5,6 +5,9 @@
 [submodule "aebdata"]
 	path = aebdata
 	url = https://github.com/ipea/aebdata
+[submodule "documentosbr"]
+	path = documentosbr
+	url = https://github.com/ipea/documentosbr
 [submodule "nomesbr"]
 	path = nomesbr
 	url = https://github.com/ipea/nomesbr
