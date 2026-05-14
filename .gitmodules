@@ -2,15 +2,36 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "accessibility"]
+	path = accessibility
+	url = https://github.com/ipea/accessibility
 [submodule "aebdata"]
 	path = aebdata
 	url = https://github.com/ipea/aebdata
 [submodule "documentosbr"]
 	path = documentosbr
 	url = https://github.com/ipea/documentosbr
+[submodule "flightsbr"]
+	path = flightsbr
+	url = https://github.com/ipea/flightsbr
+[submodule "geocodebr"]
+	path = geocodebr
+	url = https://github.com/ipea/geocodebr
+[submodule "gtfs2emis"]
+	path = gtfs2emis
+	url = https://github.com/ipea/gtfs2emis
+[submodule "gtfs2gps"]
+	path = gtfs2gps
+	url = https://github.com/ipea/gtfs2gps
+[submodule "gtfstools"]
+	path = gtfstools
+	url = https://github.com/ipea/gtfstools
 [submodule "nomesbr"]
 	path = nomesbr
 	url = https://github.com/ipea/nomesbr
+[submodule "rosmium"]
+	path = rosmium
+	url = https://github.com/ipea/rosmium
 [submodule "uci"]
 	path = uci
 	url = https://github.com/ipea/uci
