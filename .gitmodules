@@ -26,6 +26,9 @@
 [submodule "gtfstools"]
 	path = gtfstools
 	url = https://github.com/ipea/gtfstools
+[submodule "ipeadatar"]
+	path = ipeadatar
+	url = https://github.com/ipea/ipeadatar
 [submodule "nomesbr"]
 	path = nomesbr
 	url = https://github.com/ipea/nomesbr
