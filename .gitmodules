@@ -11,6 +11,9 @@
 [submodule "documentosbr"]
 	path = documentosbr
 	url = https://github.com/ipea/documentosbr
+[submodule "enderecobr"]
+	path = enderecobr
+	url = https://github.com/ipea/enderecobr
 [submodule "flightsbr"]
 	path = flightsbr
 	url = https://github.com/ipea/flightsbr
