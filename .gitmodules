@@ -8,6 +8,9 @@
 [submodule "aebdata"]
 	path = aebdata
 	url = https://github.com/ipea/aebdata
+[submodule "censobr"]
+	path = censobr
+	url = https://github.com/ipea/censobr
 [submodule "documentosbr"]
 	path = documentosbr
 	url = https://github.com/ipea/documentosbr
