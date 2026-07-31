@@ -35,9 +35,6 @@
 [submodule "ipeadatar"]
 	path = ipeadatar
 	url = https://github.com/ipea/ipeadatar
-[submodule "nomesbr"]
-	path = nomesbr
-	url = https://github.com/ipea/nomesbr
 [submodule "rosmium"]
 	path = rosmium
 	url = https://github.com/ipea/rosmium
