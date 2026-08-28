@@ -20,9 +20,6 @@
 [submodule "flightsbr"]
 	path = flightsbr
 	url = https://github.com/ipea/flightsbr
-[submodule "geocodebr"]
-	path = geocodebr
-	url = https://github.com/ipea/geocodebr
 [submodule "gtfs2emis"]
 	path = gtfs2emis
 	url = https://github.com/ipea/gtfs2emis
