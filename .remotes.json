@@ -1,0 +1,8 @@
+[
+  {
+    "package": "gtfstools",
+    "url": "https://github.com/ipea/gtfstools",
+    "via": ["gtfs2gps"],
+    "from": "gtfs2gps"
+  }
+]
